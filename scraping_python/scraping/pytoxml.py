@@ -71,7 +71,7 @@ while i<26 : # for some reason this cant get beyond 26...
 	i=i+1
 
 tree.write("posts.xml")
-#if permissions get fucked chown khalid:www-data /var/www/html/posts.xml
+
 
 
 

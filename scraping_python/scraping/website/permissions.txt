@@ -1,0 +1,2 @@
+if scripts are not working its the permissions problem
+sudo chmod -R 755 /var/www/test //example
